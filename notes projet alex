@@ -1,2 +1,7 @@
 Heavy Retrieval, Light Generation
 RAG
+LlamaParse
+
+
+MarkdownNodeParser de LLaMA-Index
+intfloat/e5-mistral-7b-instruct
